@@ -15,7 +15,7 @@
 
 ## Content of the test:
 
-Question #1. What is the definition of VS?
+Question #1. What is the definition of embedded system?
 
 Question #2. Specify a utility graph for soft real-time systems?
 
@@ -29,7 +29,7 @@ Question #6. What is the definition of "real-time systems"?
 
 Question #7. Position embedded systems at the high cost of a microprocessor module?
 
-Question #8. Specify the features of software development for VSS?
+Question #8. Specify the features of software development for embedded systems?
 
 Question #9. Rank embedded systems by decreasing system cost?
 
